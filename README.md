@@ -1,25 +1,25 @@
-<a name="module_module-bolierplate-x"></a>
+<a name="module_module-boilerplate-x"></a>
 
-## module-bolierplate-x
-<a href="https://travis-ci.org/Xotic750/module-bolierplate-x"
+## module-boilerplate-x
+<a href="https://travis-ci.org/Xotic750/module-boilerplate-x"
 title="Travis status">
 <img
-src="https://travis-ci.org/Xotic750/module-bolierplate-x.svg?branch=master"
+src="https://travis-ci.org/Xotic750/module-boilerplate-x.svg?branch=master"
 alt="Travis status" height="18">
 </a>
-<a href="https://david-dm.org/Xotic750/module-bolierplate-x"
+<a href="https://david-dm.org/Xotic750/module-boilerplate-x"
 title="Dependency status">
-<img src="https://david-dm.org/Xotic750/module-bolierplate-x.svg"
+<img src="https://david-dm.org/Xotic750/module-boilerplate-x.svg"
 alt="Dependency status" height="18"/>
 </a>
 <a
-href="https://david-dm.org/Xotic750/module-bolierplate-x#info=devDependencies"
+href="https://david-dm.org/Xotic750/module-boilerplate-x#info=devDependencies"
 title="devDependency status">
-<img src="https://david-dm.org/Xotic750/module-bolierplate-x/dev-status.svg"
+<img src="https://david-dm.org/Xotic750/module-boilerplate-x/dev-status.svg"
 alt="devDependency status" height="18"/>
 </a>
-<a href="https://badge.fury.io/js/module-bolierplate-x" title="npm version">
-<img src="https://badge.fury.io/js/module-bolierplate-x.svg"
+<a href="https://badge.fury.io/js/module-boilerplate-x" title="npm version">
+<img src="https://badge.fury.io/js/module-boilerplate-x.svg"
 alt="npm version" height="18">
 </a>
 
@@ -31,7 +31,7 @@ Requires ES3 or above.
 **Author**: Xotic750 <Xotic750@gmail.com>  
 **License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
 **Copyright**: Xotic750  
-<a name="exp_module_module-bolierplate-x--module.exports"></a>
+<a name="exp_module_module-boilerplate-x--module.exports"></a>
 
 ### `module.exports` ⇒ <code>\*</code> ⏏
 This method is just a placeholder.
@@ -49,5 +49,5 @@ This method is just a placeholder.
 
 **Example**  
 ```js
-var placeHolder = require('module-bolierplate-x');
+var placeHolder = require('module-boilerplate-x');
 ```
