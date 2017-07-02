@@ -1,6 +1,6 @@
 {
   "name": "module-boilerplate-x",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Boilerplate for standard modules.",
   "homepage": "https://github.com/Xotic750/module-boilerplate-x",
   "author": {
@@ -67,6 +67,7 @@
     "start": "parallelshell \"serve\" \"nodemon --watch index.js --exec 'npm run build'\"",
     "docs": "jsdoc2md --name-format --example-lang js index.js > README.md",
     "lint": "eslint *.js tests/spec/*.js",
+    "lint-fix": "eslint --fix *.js tests/spec/*.js",
     "security": "nsp check",
     "test": "jasmine-node --matchall tests/spec/",
     "browserify": "browserify -p browserify-derequire -e index.js -o lib/module-boilerplate-x.js -u 'crypto' -s returnExports",
