@@ -26,7 +26,7 @@
  *
  * Requires ES3 or above.
  *
- * @version 1.8.0
+ * @version 1.8.1
  * @author Xotic750 <Xotic750@gmail.com>
  * @copyright  Xotic750
  * @license {@link <https://opensource.org/licenses/MIT> MIT}

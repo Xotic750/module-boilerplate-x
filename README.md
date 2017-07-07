@@ -27,7 +27,7 @@ Boilerplate for standard modules.
 
 Requires ES3 or above.
 
-**Version**: 1.8.0  
+**Version**: 1.8.1  
 **Author**: Xotic750 <Xotic750@gmail.com>  
 **License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
 **Copyright**: Xotic750  
