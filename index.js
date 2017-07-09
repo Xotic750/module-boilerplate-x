@@ -26,7 +26,7 @@
  *
  * Requires ES3 or above.
  *
- * @version 1.9.0
+ * @version 2.0.0
  * @author Xotic750 <Xotic750@gmail.com>
  * @copyright  Xotic750
  * @license {@link <https://opensource.org/licenses/MIT> MIT}
@@ -40,7 +40,11 @@ var placeHolder = function _placeHolder(target) {
     throw new TypeError('target is not undefined');
   }
 
-  return target;
+  return {
+    blah: true,
+    'delete': true,
+    'throws': true
+  };
 };
 
 /**
