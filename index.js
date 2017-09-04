@@ -1,6 +1,6 @@
 /**
  * @file Boilerplate for standard modules.
- * @version 2.1.2
+ * @version 2.1.3
  * @author Xotic750 <Xotic750@gmail.com>
  * @copyright  Xotic750
  * @license {@link <https://opensource.org/licenses/MIT> MIT}
@@ -24,9 +24,9 @@ var placeHolder = function _placeHolder(target) {
 /**
  * This method is just a placeholder.
  *
- * @param {*} [target] The target.
+ * @param {*} [target] - The target.
  * @throws {Error} If target is not undefined.
- * @return {*} The target.
+ * @returns {*} The target.
  * @example
  * var placeHolder = require('module-boilerplate-x');
  */
