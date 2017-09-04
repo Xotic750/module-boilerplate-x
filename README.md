@@ -23,7 +23,7 @@
 ## module-boilerplate-x
 Boilerplate for standard modules.
 
-**Version**: 2.1.1  
+**Version**: 2.1.2  
 **Author**: Xotic750 <Xotic750@gmail.com>  
 **License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
 **Copyright**: Xotic750  
