@@ -1,6 +1,6 @@
 /**
  * @file Boilerplate for standard modules.
- * @version 2.1.3
+ * @version 2.1.4
  * @author Xotic750 <Xotic750@gmail.com>
  * @copyright  Xotic750
  * @license {@link <https://opensource.org/licenses/MIT> MIT}
