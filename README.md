@@ -21,15 +21,13 @@
 <a name="module_module-boilerplate-x"></a>
 
 ## module-boilerplate-x
+
 Boilerplate for standard modules.
 
-**Version**: 2.1.4  
-**Author**: Xotic750 <Xotic750@gmail.com>  
-**License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
-**Copyright**: Xotic750  
 <a name="exp_module_module-boilerplate-x--module.exports"></a>
 
 ### `module.exports` ⇒ <code>\*</code> ⏏
+
 This method is just a placeholder.
 
 **Kind**: Exported member  
@@ -38,12 +36,12 @@ This method is just a placeholder.
 
 - <code>Error</code> If target is not undefined.
 
-
-| Param | Type | Description |
-| --- | --- | --- |
+| Param    | Type            | Description |
+| -------- | --------------- | ----------- |
 | [target] | <code>\*</code> | The target. |
 
-**Example**  
+**Example**
+
 ```js
-var placeHolder = require('module-boilerplate-x');
+import placeHolder from 'module-boilerplate-x';
 ```
