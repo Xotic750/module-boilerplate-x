@@ -1,6 +1,6 @@
 {
   "name": "module-boilerplate-x",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Boilerplate for standard modules.",
   "homepage": "https://github.com/Xotic750/module-boilerplate-x",
   "author": {
@@ -21,6 +21,7 @@
   ],
   "module": "dist/module-boilerplate-x.esm.js",
   "main": "dist/module-boilerplate-x.js",
+  "jsdelivr": "dist/module-boilerplate-x.min.js",
   "scripts": {
     "build:esm": "mkdirp dist && babel -s true --env-name esm src/module-boilerplate-x.js -o dist/module-boilerplate-x.esm.js",
     "build:base": "webpack --bail --progress --profile --colors",
