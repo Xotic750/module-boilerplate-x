@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2015-present",
-  "date": "2019-07-26T23:50:31.762Z",
+  "date": "2019-07-26T23:54:07.965Z",
   "describe": "",
   "description": "Boilerplate for standard modules.",
   "file": "module-boilerplate-x.js",
   "hash": "f6914935494bf5df3722",
   "license": "MIT",
-  "version": "3.0.12"
+  "version": "3.0.13"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {

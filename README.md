@@ -36,13 +36,6 @@
   alt="bettercodehub score" height="18">
 </a>
 
-<a
-  href="https://bettercodehub.com/results/Xotic750/module-boilerplate-x"
-  title="bettercodehub score">
-<img src="https://bettercodehub.com/edge/badge/Xotic750/module-boilerplate-x?branch=master"
-  alt="bettercodehub score" height="18">
-</a>
-
 <a name="module_module-boilerplate-x"></a>
 
 ## module-boilerplate-x
