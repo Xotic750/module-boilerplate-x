@@ -38,6 +38,11 @@ module.exports = {
         jest: false,
         node: true,
       },
+      rules: {
+        complexity: 'off',
+        'max-lines-per-function': 'off',
+        'max-params': 'off',
+      },
     },
   ],
 
