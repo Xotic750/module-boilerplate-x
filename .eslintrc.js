@@ -7,8 +7,10 @@ module.exports = {
   /**
    * @see {@link https://eslint.org/docs/user-guide/configuring#specifying-environments}
    */
-  env: {},
-
+  env: {
+    jest: false,
+    node: false,
+  },
   /**
    * @see {@link https://eslint.org/docs/user-guide/configuring#extending-configuration-files}
    */
@@ -27,7 +29,17 @@ module.exports = {
    *
    * @see {@link https://eslint.org/docs/user-guide/configuring#configuration-based-on-glob-patterns}
    */
-  overrides: [],
+  overrides: [
+    {
+      files: ['webpack.config.js', '.eslintrc.js', 'jest.config.js'],
+      env: {
+        browser: true,
+        commonjs: true,
+        jest: false,
+        node: true,
+      },
+    },
+  ],
 
   /**
    * @see {@link https://eslint.org/docs/user-guide/configuring#specifying-parser-options}
