@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-15T17:12:43.789Z",
+  "date": "2019-08-20T07:46:45.389Z",
   "describe": "",
   "description": "Boilerplate for standard modules.",
   "file": "module-boilerplate-x.js",
